@@ -1,1 +1,1 @@
-# Amos-ModIndices-ModelMaker
+# Amos-AutoModeler
